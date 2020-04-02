@@ -1,15 +1,28 @@
-### Date created
-Include the date you created this project and README file.
+April 1st, 2020
 
-### Project Title
-Replace the Project Title
+# Explore Bikeshare Data 
+April 1st, 2020
 
-### Description
-Describe what your project is about and what it does
+## Description
+This project is part of the Udacity Programing for Data Science with R Nanodegree program. We were tasked with asking three questions of the data, then investigating with plots and summary statistics. 
 
-### Files used
-Include the files used
+### Questions
+
+1. How does trip duration change over time?
+2. What is the distribution of rides by age and user type?
+3. What is the average trip duration for the most popular route?
+
+### Data Sources
+
+Not included in this repository. 
+
+- new_york_city.csv
+- washington.csv
+- chicago.csv
+
+### Project Requirements
+
+- Jupyter Notebook with R kernel
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+The original notebook structure and CSV files used for analysis.
