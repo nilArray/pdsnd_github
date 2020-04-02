@@ -1,5 +1,3 @@
-April 1st, 2020
-
 # Explore Bikeshare Data 
 April 1st, 2020
 
